@@ -1,6 +1,6 @@
 {
   "name": "alfred-ngzorro",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Alfred module for Ant Design of Angular",
   "license": "MIT",
   "repository": "klaascuvelier/alfred-ngzorro",
@@ -21,7 +21,8 @@
   "files": [
     "index.js",
     "icon.png",
-    "info.plist"
+    "info.plist",
+    "components.json"
   ],
   "keywords": [
     "alfred",
