@@ -2,6 +2,8 @@
 
 > Ant Design of Angular documentation
 
+![screenshot](screenshot.png)
+
 
 ## Install
 
