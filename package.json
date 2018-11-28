@@ -1,7 +1,7 @@
 {
   "name": "alfred-ngzorro",
-  "version": "0.0.0",
-  "description": "Ant Design of Angular documentation",
+  "version": "1.0.0",
+  "description": "Alfred module for Ant Design of Angular",
   "license": "MIT",
   "repository": "klaascuvelier/alfred-ngzorro",
   "author": {
