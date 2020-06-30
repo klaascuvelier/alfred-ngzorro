@@ -11,7 +11,7 @@
 $ npm install --global alfred-ngzorro
 ```
 
-*Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
+*Requires [Node.js](https://nodejs.org) 8+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
 
 ## Usage
