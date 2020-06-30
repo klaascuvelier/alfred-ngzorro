@@ -10,7 +10,7 @@
     "url": "klaascuvelier.io"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=8"
   },
   "scripts": {
     "test": "ava",
@@ -30,12 +30,12 @@
     "alfy"
   ],
   "dependencies": {
-    "alfy": "^0.6.0"
+    "alfy": "^0.9.1"
   },
   "devDependencies": {
-    "alfy-test": "^0.3.0",
-    "ava": "^0.18.0",
-    "ora": "^3.0.0",
-    "puppeteer": "^1.10.0"
+    "alfy-test": "^0.4.0",
+    "ava": "^3.9.0",
+    "ora": "^3.4.0",
+    "puppeteer": "^4.0.0"
   }
 }
