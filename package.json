@@ -13,7 +13,7 @@
     "node": ">=8"
   },
   "scripts": {
-    "test": "ava",
+    "test": "npx ava",
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup",
     "update": "node update.js"
@@ -34,6 +34,7 @@
   },
   "devDependencies": {
     "alfy-test": "^0.4.0",
+    "ava": "^3.12.1",
     "ora": "^5.1.0",
     "puppeteer": "^5.3.1"
   }
