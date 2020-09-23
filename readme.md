@@ -1,4 +1,6 @@
-# alfred-ngzorro [![Build Status](https://travis-ci.org/klaascuvelier/alfred-ngzorro.svg?branch=master)](https://travis-ci.org/klaascuvelier/alfred-ngzorro)
+# alfred-ngzorro
+
+Support for Alfred 3 + Alfred 4
 
 > Ant Design of Angular documentation
 

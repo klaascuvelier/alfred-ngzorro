@@ -7,13 +7,13 @@
   "author": {
     "name": "Klaas Cuvelier",
     "email": "cuvelierklaas@gmail.com",
-    "url": "klaascuvelier.io"
+    "url": "https://klaascuvelier.io"
   },
   "engines": {
     "node": ">=8"
   },
   "scripts": {
-    "test": "ava",
+    "test": "npx ava",
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup",
     "update": "node update.js"
@@ -30,12 +30,12 @@
     "alfy"
   ],
   "dependencies": {
-    "alfy": "^0.9.1"
+    "alfy": "^0.10.0"
   },
   "devDependencies": {
     "alfy-test": "^0.4.0",
-    "ava": "^3.9.0",
-    "ora": "^3.4.0",
-    "puppeteer": "^4.0.0"
+    "ava": "^3.12.1",
+    "ora": "^5.1.0",
+    "puppeteer": "^5.3.1"
   }
 }
