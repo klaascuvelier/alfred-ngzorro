@@ -7,7 +7,7 @@
   "author": {
     "name": "Klaas Cuvelier",
     "email": "cuvelierklaas@gmail.com",
-    "url": "klaascuvelier.io"
+    "url": "https://klaascuvelier.io"
   },
   "engines": {
     "node": ">=8"
@@ -30,7 +30,7 @@
     "alfy"
   ],
   "dependencies": {
-    "alfy": "^0.9.1"
+    "alfy": "^0.10.0"
   },
   "devDependencies": {
     "alfy-test": "^0.4.0",
